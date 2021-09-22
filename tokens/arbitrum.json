@@ -336,5 +336,13 @@
     "symbol": "TCR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA72159FC390f0E3C6D415e658264c7c4051E9b87/logo.png"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8eD4191F81F1e1D24a8a1195267D024d9358c9d7",
+    "name": "Magnethereum",
+    "symbol": "MAGNET",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg"
   }
 ]
